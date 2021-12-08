@@ -50,7 +50,7 @@ h4{
     font-family: Arial, Helvetica, sans-serif;
 }
 body{
-    background-image: url(/media/web.png);
+    background-image: url(web.png);
 }
 .scroll-to-section{
     position: inline;
